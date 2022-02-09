@@ -1,0 +1,7 @@
+c:\users\darka\source\repos\MCAJ_Vehiculo2\MCAJ_Vehiculo2\bin\Debug\MCAJ_Vehiculo2.exe.config
+c:\users\darka\source\repos\MCAJ_Vehiculo2\MCAJ_Vehiculo2\bin\Debug\MCAJ_Vehiculo2.exe
+c:\users\darka\source\repos\MCAJ_Vehiculo2\MCAJ_Vehiculo2\bin\Debug\MCAJ_Vehiculo2.pdb
+c:\users\darka\source\repos\MCAJ_Vehiculo2\MCAJ_Vehiculo2\obj\Debug\MCAJ_Vehiculo2.csprojResolveAssemblyReference.cache
+c:\users\darka\source\repos\MCAJ_Vehiculo2\MCAJ_Vehiculo2\obj\Debug\MCAJ_Vehiculo2.csproj.CoreCompileInputs.cache
+c:\users\darka\source\repos\MCAJ_Vehiculo2\MCAJ_Vehiculo2\obj\Debug\MCAJ_Vehiculo2.exe
+c:\users\darka\source\repos\MCAJ_Vehiculo2\MCAJ_Vehiculo2\obj\Debug\MCAJ_Vehiculo2.pdb

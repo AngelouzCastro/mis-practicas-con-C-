@@ -1,0 +1,67 @@
+﻿
+tienda
+
+1234,coca, Cmpa: 10, Vta:  20
+
+4567,fanta, Cmpa: 12, Vta:  30
+
+5678,pepsi, Cmpa: 30, Vta:  40
+
+Precio de Costo: $52
+Precio de Venta: $90
+Menor costo : 1234   coca  $10
+Mayor Costo: 5678   pepsi   $30
+Ganancia: $38
+Compañia: Angel  josue Martinez & Ivan Gtz 
+SORIANA
+
+123,Cocacola, Cmpa: 10, Vta:  15
+
+1234,Azucar, Cmpa: 15, Vta:  25
+
+12345,Pepsi, Cmpa: 19, Vta:  25
+
+Precio de Costo: $44
+Precio de Venta: $65
+Menor costo : 123   Cocacola  $10
+Mayor Costo: 12345   Pepsi   $19
+Ganancia: $21
+Compañia: Angel  josue Martinez & Ivan Gtz 
+Aldalu
+
+12,agua, Cmpa: 13,Vta:  40
+
+1,churros, Cmpa: 3,Vta:  4
+
+123,puto, Cmpa: 12,Vta:  50
+
+3,f, Cmpa: 30,Vta:  12
+
+Precio de Costo: $58
+Precio de Venta: $106
+Menor costo : 1   churros  $3
+Mayor Costo: 3   f   $30
+Ganancia: $48
+Compañia: Angel  josue Martinez & Ivan Gtz 
+lol
+
+1,q, Cmpa: 12,Vta:  40
+
+2,r, Cmpa: 10,Vta:  100
+
+Precio de Costo: $22
+Precio de Venta: $140
+Menor costo : 2   r  $10
+Mayor Costo: 1   q   $12
+Ganancia: $118
+Compañia: Angel  josue Martinez & Ivan Gtz 
+pop
+
+1,p, Cmpa: 20,Vta:  30
+
+Precio de Costo: $20
+Precio de Venta: $30
+Menor costo : 1   p  $20
+Mayor Costo: 1   p   $20
+Ganancia: $10
+Compañia: Angel  josue Martinez & Ivan Gtz 

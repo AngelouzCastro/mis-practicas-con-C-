@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2043
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MCAJ_Alarma", "MCAJ_Alarma\MCAJ_Alarma.csproj", "{AA909204-FD8D-46DC-9E1F-8835DC098F57}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AA909204-FD8D-46DC-9E1F-8835DC098F57}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA909204-FD8D-46DC-9E1F-8835DC098F57}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA909204-FD8D-46DC-9E1F-8835DC098F57}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA909204-FD8D-46DC-9E1F-8835DC098F57}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F710F332-7FD7-45BE-83F2-CD1B35DCABDC}
+	EndGlobalSection
+EndGlobal

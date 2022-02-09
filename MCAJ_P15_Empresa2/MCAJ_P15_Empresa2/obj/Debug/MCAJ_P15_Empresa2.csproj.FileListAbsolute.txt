@@ -1,0 +1,7 @@
+C:\Users\darka\source\repos\MCAJ_P15_Empresa2\MCAJ_P15_Empresa2\bin\Debug\MCAJ_P15_Empresa2.exe.config
+C:\Users\darka\source\repos\MCAJ_P15_Empresa2\MCAJ_P15_Empresa2\bin\Debug\MCAJ_P15_Empresa2.exe
+C:\Users\darka\source\repos\MCAJ_P15_Empresa2\MCAJ_P15_Empresa2\bin\Debug\MCAJ_P15_Empresa2.pdb
+C:\Users\darka\source\repos\MCAJ_P15_Empresa2\MCAJ_P15_Empresa2\obj\Debug\MCAJ_P15_Empresa2.csprojResolveAssemblyReference.cache
+C:\Users\darka\source\repos\MCAJ_P15_Empresa2\MCAJ_P15_Empresa2\obj\Debug\MCAJ_P15_Empresa2.csproj.CoreCompileInputs.cache
+C:\Users\darka\source\repos\MCAJ_P15_Empresa2\MCAJ_P15_Empresa2\obj\Debug\MCAJ_P15_Empresa2.exe
+C:\Users\darka\source\repos\MCAJ_P15_Empresa2\MCAJ_P15_Empresa2\obj\Debug\MCAJ_P15_Empresa2.pdb

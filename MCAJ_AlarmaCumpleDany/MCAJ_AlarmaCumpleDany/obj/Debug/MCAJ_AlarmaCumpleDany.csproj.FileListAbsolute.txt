@@ -1,0 +1,10 @@
+c:\users\darka\source\repos\MCAJ_AlarmaCumpleDany\MCAJ_AlarmaCumpleDany\bin\Debug\MCAJ_AlarmaCumpleDany.exe.config
+c:\users\darka\source\repos\MCAJ_AlarmaCumpleDany\MCAJ_AlarmaCumpleDany\bin\Debug\MCAJ_AlarmaCumpleDany.exe
+c:\users\darka\source\repos\MCAJ_AlarmaCumpleDany\MCAJ_AlarmaCumpleDany\bin\Debug\MCAJ_AlarmaCumpleDany.pdb
+c:\users\darka\source\repos\MCAJ_AlarmaCumpleDany\MCAJ_AlarmaCumpleDany\obj\Debug\MCAJ_AlarmaCumpleDany.csprojResolveAssemblyReference.cache
+c:\users\darka\source\repos\MCAJ_AlarmaCumpleDany\MCAJ_AlarmaCumpleDany\obj\Debug\MCAJ_AlarmaCumpleDany.Form1.resources
+c:\users\darka\source\repos\MCAJ_AlarmaCumpleDany\MCAJ_AlarmaCumpleDany\obj\Debug\MCAJ_AlarmaCumpleDany.Properties.Resources.resources
+c:\users\darka\source\repos\MCAJ_AlarmaCumpleDany\MCAJ_AlarmaCumpleDany\obj\Debug\MCAJ_AlarmaCumpleDany.csproj.GenerateResource.cache
+c:\users\darka\source\repos\MCAJ_AlarmaCumpleDany\MCAJ_AlarmaCumpleDany\obj\Debug\MCAJ_AlarmaCumpleDany.csproj.CoreCompileInputs.cache
+c:\users\darka\source\repos\MCAJ_AlarmaCumpleDany\MCAJ_AlarmaCumpleDany\obj\Debug\MCAJ_AlarmaCumpleDany.exe
+c:\users\darka\source\repos\MCAJ_AlarmaCumpleDany\MCAJ_AlarmaCumpleDany\obj\Debug\MCAJ_AlarmaCumpleDany.pdb

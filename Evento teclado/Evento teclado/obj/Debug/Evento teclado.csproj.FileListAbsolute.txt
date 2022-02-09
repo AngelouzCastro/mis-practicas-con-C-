@@ -1,0 +1,10 @@
+c:\users\darka\source\repos\Evento teclado\Evento teclado\obj\Debug\Evento teclado.csprojResolveAssemblyReference.cache
+c:\users\darka\source\repos\Evento teclado\Evento teclado\obj\Debug\Evento_teclado.Form1.resources
+c:\users\darka\source\repos\Evento teclado\Evento teclado\obj\Debug\Evento_teclado.Properties.Resources.resources
+c:\users\darka\source\repos\Evento teclado\Evento teclado\obj\Debug\Evento teclado.csproj.GenerateResource.cache
+c:\users\darka\source\repos\Evento teclado\Evento teclado\obj\Debug\Evento teclado.csproj.CoreCompileInputs.cache
+c:\users\darka\source\repos\Evento teclado\Evento teclado\bin\Debug\Evento teclado.exe.config
+c:\users\darka\source\repos\Evento teclado\Evento teclado\bin\Debug\Evento teclado.exe
+c:\users\darka\source\repos\Evento teclado\Evento teclado\bin\Debug\Evento teclado.pdb
+c:\users\darka\source\repos\Evento teclado\Evento teclado\obj\Debug\Evento teclado.exe
+c:\users\darka\source\repos\Evento teclado\Evento teclado\obj\Debug\Evento teclado.pdb

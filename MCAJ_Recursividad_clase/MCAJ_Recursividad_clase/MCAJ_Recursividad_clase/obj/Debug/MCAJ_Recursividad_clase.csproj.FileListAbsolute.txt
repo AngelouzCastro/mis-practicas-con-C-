@@ -1,0 +1,7 @@
+c:\users\darka\source\repos\MCAJ_Recursividad_clase\MCAJ_Recursividad_clase\bin\Debug\MCAJ_Recursividad_clase.exe.config
+c:\users\darka\source\repos\MCAJ_Recursividad_clase\MCAJ_Recursividad_clase\bin\Debug\MCAJ_Recursividad_clase.exe
+c:\users\darka\source\repos\MCAJ_Recursividad_clase\MCAJ_Recursividad_clase\bin\Debug\MCAJ_Recursividad_clase.pdb
+c:\users\darka\source\repos\MCAJ_Recursividad_clase\MCAJ_Recursividad_clase\obj\Debug\MCAJ_Recursividad_clase.csprojResolveAssemblyReference.cache
+c:\users\darka\source\repos\MCAJ_Recursividad_clase\MCAJ_Recursividad_clase\obj\Debug\MCAJ_Recursividad_clase.csproj.CoreCompileInputs.cache
+c:\users\darka\source\repos\MCAJ_Recursividad_clase\MCAJ_Recursividad_clase\obj\Debug\MCAJ_Recursividad_clase.exe
+c:\users\darka\source\repos\MCAJ_Recursividad_clase\MCAJ_Recursividad_clase\obj\Debug\MCAJ_Recursividad_clase.pdb

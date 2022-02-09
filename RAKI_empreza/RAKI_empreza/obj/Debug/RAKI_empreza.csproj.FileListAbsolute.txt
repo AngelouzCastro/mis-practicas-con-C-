@@ -1,0 +1,7 @@
+c:\users\darka\source\repos\RAKI_empreza\RAKI_empreza\bin\Debug\RAKI_empreza.exe.config
+c:\users\darka\source\repos\RAKI_empreza\RAKI_empreza\bin\Debug\RAKI_empreza.exe
+c:\users\darka\source\repos\RAKI_empreza\RAKI_empreza\bin\Debug\RAKI_empreza.pdb
+c:\users\darka\source\repos\RAKI_empreza\RAKI_empreza\obj\Debug\RAKI_empreza.csprojResolveAssemblyReference.cache
+c:\users\darka\source\repos\RAKI_empreza\RAKI_empreza\obj\Debug\RAKI_empreza.csproj.CoreCompileInputs.cache
+c:\users\darka\source\repos\RAKI_empreza\RAKI_empreza\obj\Debug\RAKI_empreza.exe
+c:\users\darka\source\repos\RAKI_empreza\RAKI_empreza\obj\Debug\RAKI_empreza.pdb

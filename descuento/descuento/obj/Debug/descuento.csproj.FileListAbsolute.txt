@@ -1,0 +1,7 @@
+c:\users\darka\source\repos\descuento\descuento\bin\Debug\descuento.exe.config
+c:\users\darka\source\repos\descuento\descuento\bin\Debug\descuento.exe
+c:\users\darka\source\repos\descuento\descuento\bin\Debug\descuento.pdb
+c:\users\darka\source\repos\descuento\descuento\obj\Debug\descuento.csprojResolveAssemblyReference.cache
+c:\users\darka\source\repos\descuento\descuento\obj\Debug\descuento.csproj.CoreCompileInputs.cache
+c:\users\darka\source\repos\descuento\descuento\obj\Debug\descuento.exe
+c:\users\darka\source\repos\descuento\descuento\obj\Debug\descuento.pdb

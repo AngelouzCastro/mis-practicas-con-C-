@@ -1,0 +1,7 @@
+c:\users\darka\source\repos\MCAJ_DiaDeLasMadres\MCAJ_DiaDeLasMadres\bin\Debug\MCAJ_DiaDeLasMadres.exe.config
+c:\users\darka\source\repos\MCAJ_DiaDeLasMadres\MCAJ_DiaDeLasMadres\bin\Debug\MCAJ_DiaDeLasMadres.exe
+c:\users\darka\source\repos\MCAJ_DiaDeLasMadres\MCAJ_DiaDeLasMadres\bin\Debug\MCAJ_DiaDeLasMadres.pdb
+c:\users\darka\source\repos\MCAJ_DiaDeLasMadres\MCAJ_DiaDeLasMadres\obj\Debug\MCAJ_DiaDeLasMadres.csprojResolveAssemblyReference.cache
+c:\users\darka\source\repos\MCAJ_DiaDeLasMadres\MCAJ_DiaDeLasMadres\obj\Debug\MCAJ_DiaDeLasMadres.csproj.CoreCompileInputs.cache
+c:\users\darka\source\repos\MCAJ_DiaDeLasMadres\MCAJ_DiaDeLasMadres\obj\Debug\MCAJ_DiaDeLasMadres.exe
+c:\users\darka\source\repos\MCAJ_DiaDeLasMadres\MCAJ_DiaDeLasMadres\obj\Debug\MCAJ_DiaDeLasMadres.pdb

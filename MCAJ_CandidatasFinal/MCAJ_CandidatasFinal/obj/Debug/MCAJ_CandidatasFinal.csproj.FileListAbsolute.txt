@@ -1,0 +1,7 @@
+C:\Users\darka\source\repos\MCAJ_CandidatasFinal\MCAJ_CandidatasFinal\bin\Debug\MCAJ_CandidatasFinal.exe.config
+C:\Users\darka\source\repos\MCAJ_CandidatasFinal\MCAJ_CandidatasFinal\bin\Debug\MCAJ_CandidatasFinal.exe
+C:\Users\darka\source\repos\MCAJ_CandidatasFinal\MCAJ_CandidatasFinal\bin\Debug\MCAJ_CandidatasFinal.pdb
+C:\Users\darka\source\repos\MCAJ_CandidatasFinal\MCAJ_CandidatasFinal\obj\Debug\MCAJ_CandidatasFinal.csprojResolveAssemblyReference.cache
+C:\Users\darka\source\repos\MCAJ_CandidatasFinal\MCAJ_CandidatasFinal\obj\Debug\MCAJ_CandidatasFinal.csproj.CoreCompileInputs.cache
+C:\Users\darka\source\repos\MCAJ_CandidatasFinal\MCAJ_CandidatasFinal\obj\Debug\MCAJ_CandidatasFinal.exe
+C:\Users\darka\source\repos\MCAJ_CandidatasFinal\MCAJ_CandidatasFinal\obj\Debug\MCAJ_CandidatasFinal.pdb

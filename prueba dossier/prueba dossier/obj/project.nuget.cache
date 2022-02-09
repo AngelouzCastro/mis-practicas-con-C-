@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "Y1zG2hw43oKhQvBbZXBIkUsjVFv4drMMVSHdBbUFQJgmORa2PxgsW1JsGsvWz72heGu1l8oJbzMEpeAh/UJcZQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\darka\\source\\repos\\prueba dossier\\prueba dossier\\prueba dossier.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\darka\\.nuget\\packages\\documentformat.openxml\\2.11.3\\documentformat.openxml.2.11.3.nupkg.sha512",
+    "C:\\Users\\darka\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "C:\\Users\\darka\\.nuget\\packages\\microsoft.win32.systemevents\\5.0.0\\microsoft.win32.systemevents.5.0.0.nupkg.sha512",
+    "C:\\Users\\darka\\.nuget\\packages\\spreadsheetlight\\3.5.0\\spreadsheetlight.3.5.0.nupkg.sha512",
+    "C:\\Users\\darka\\.nuget\\packages\\system.drawing.common\\5.0.0\\system.drawing.common.5.0.0.nupkg.sha512",
+    "C:\\Users\\darka\\.nuget\\packages\\system.io.packaging\\4.7.0\\system.io.packaging.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

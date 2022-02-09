@@ -1,0 +1,8 @@
+c:\users\darka\source\repos\ComponenteSufamelico\ComponenteSufamelico\bin\Debug\ComponenteSufamelico.dll
+c:\users\darka\source\repos\ComponenteSufamelico\ComponenteSufamelico\bin\Debug\ComponenteSufamelico.pdb
+c:\users\darka\source\repos\ComponenteSufamelico\ComponenteSufamelico\obj\Debug\ComponenteSufamelico.Properties.Resources.resources
+c:\users\darka\source\repos\ComponenteSufamelico\ComponenteSufamelico\obj\Debug\ComponenteSufamelico.Sufamelico.resources
+c:\users\darka\source\repos\ComponenteSufamelico\ComponenteSufamelico\obj\Debug\ComponenteSufamelico.csproj.GenerateResource.cache
+c:\users\darka\source\repos\ComponenteSufamelico\ComponenteSufamelico\obj\Debug\ComponenteSufamelico.csproj.CoreCompileInputs.cache
+c:\users\darka\source\repos\ComponenteSufamelico\ComponenteSufamelico\obj\Debug\ComponenteSufamelico.dll
+c:\users\darka\source\repos\ComponenteSufamelico\ComponenteSufamelico\obj\Debug\ComponenteSufamelico.pdb

@@ -1,0 +1,7 @@
+C:\Users\darka\source\repos\MCAJ_P17_MediaYDes\MCAJ_P17_MediaYDes\bin\Debug\MCAJ_P17_MediaYDes.exe.config
+C:\Users\darka\source\repos\MCAJ_P17_MediaYDes\MCAJ_P17_MediaYDes\bin\Debug\MCAJ_P17_MediaYDes.exe
+C:\Users\darka\source\repos\MCAJ_P17_MediaYDes\MCAJ_P17_MediaYDes\bin\Debug\MCAJ_P17_MediaYDes.pdb
+C:\Users\darka\source\repos\MCAJ_P17_MediaYDes\MCAJ_P17_MediaYDes\obj\Debug\MCAJ_P17_MediaYDes.csprojResolveAssemblyReference.cache
+C:\Users\darka\source\repos\MCAJ_P17_MediaYDes\MCAJ_P17_MediaYDes\obj\Debug\MCAJ_P17_MediaYDes.csproj.CoreCompileInputs.cache
+C:\Users\darka\source\repos\MCAJ_P17_MediaYDes\MCAJ_P17_MediaYDes\obj\Debug\MCAJ_P17_MediaYDes.exe
+C:\Users\darka\source\repos\MCAJ_P17_MediaYDes\MCAJ_P17_MediaYDes\obj\Debug\MCAJ_P17_MediaYDes.pdb

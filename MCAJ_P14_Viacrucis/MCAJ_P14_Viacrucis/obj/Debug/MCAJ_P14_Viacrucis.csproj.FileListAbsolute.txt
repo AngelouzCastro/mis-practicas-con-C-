@@ -1,0 +1,7 @@
+c:\users\darka\source\repos\MCAJ_P14_Viacrucis\MCAJ_P14_Viacrucis\bin\Debug\MCAJ_P14_Viacrucis.exe.config
+c:\users\darka\source\repos\MCAJ_P14_Viacrucis\MCAJ_P14_Viacrucis\bin\Debug\MCAJ_P14_Viacrucis.exe
+c:\users\darka\source\repos\MCAJ_P14_Viacrucis\MCAJ_P14_Viacrucis\bin\Debug\MCAJ_P14_Viacrucis.pdb
+c:\users\darka\source\repos\MCAJ_P14_Viacrucis\MCAJ_P14_Viacrucis\obj\Debug\MCAJ_P14_Viacrucis.csprojResolveAssemblyReference.cache
+c:\users\darka\source\repos\MCAJ_P14_Viacrucis\MCAJ_P14_Viacrucis\obj\Debug\MCAJ_P14_Viacrucis.csproj.CoreCompileInputs.cache
+c:\users\darka\source\repos\MCAJ_P14_Viacrucis\MCAJ_P14_Viacrucis\obj\Debug\MCAJ_P14_Viacrucis.exe
+c:\users\darka\source\repos\MCAJ_P14_Viacrucis\MCAJ_P14_Viacrucis\obj\Debug\MCAJ_P14_Viacrucis.pdb

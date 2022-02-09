@@ -1,0 +1,7 @@
+c:\users\darka\source\repos\MCAJ_EmpleadoPO\MCAJ_EmpleadoPO\bin\Debug\MCAJ_EmpleadoPO.exe.config
+c:\users\darka\source\repos\MCAJ_EmpleadoPO\MCAJ_EmpleadoPO\bin\Debug\MCAJ_EmpleadoPO.exe
+c:\users\darka\source\repos\MCAJ_EmpleadoPO\MCAJ_EmpleadoPO\bin\Debug\MCAJ_EmpleadoPO.pdb
+c:\users\darka\source\repos\MCAJ_EmpleadoPO\MCAJ_EmpleadoPO\obj\Debug\MCAJ_EmpleadoPO.csprojResolveAssemblyReference.cache
+c:\users\darka\source\repos\MCAJ_EmpleadoPO\MCAJ_EmpleadoPO\obj\Debug\MCAJ_EmpleadoPO.csproj.CoreCompileInputs.cache
+c:\users\darka\source\repos\MCAJ_EmpleadoPO\MCAJ_EmpleadoPO\obj\Debug\MCAJ_EmpleadoPO.exe
+c:\users\darka\source\repos\MCAJ_EmpleadoPO\MCAJ_EmpleadoPO\obj\Debug\MCAJ_EmpleadoPO.pdb

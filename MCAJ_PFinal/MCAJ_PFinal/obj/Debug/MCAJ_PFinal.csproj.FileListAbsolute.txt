@@ -1,0 +1,7 @@
+C:\Users\darka\source\repos\MCAJ_PFinal\MCAJ_PFinal\obj\Debug\MCAJ_PFinal.csprojResolveAssemblyReference.cache
+C:\Users\darka\source\repos\MCAJ_PFinal\MCAJ_PFinal\obj\Debug\MCAJ_PFinal.csproj.CoreCompileInputs.cache
+C:\Users\darka\source\repos\MCAJ_PFinal\MCAJ_PFinal\bin\Debug\MCAJ_PFinal.exe.config
+C:\Users\darka\source\repos\MCAJ_PFinal\MCAJ_PFinal\bin\Debug\MCAJ_PFinal.exe
+C:\Users\darka\source\repos\MCAJ_PFinal\MCAJ_PFinal\bin\Debug\MCAJ_PFinal.pdb
+C:\Users\darka\source\repos\MCAJ_PFinal\MCAJ_PFinal\obj\Debug\MCAJ_PFinal.exe
+C:\Users\darka\source\repos\MCAJ_PFinal\MCAJ_PFinal\obj\Debug\MCAJ_PFinal.pdb

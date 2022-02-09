@@ -1,0 +1,15 @@
+C:\Users\darka\source\repos\Hu7\Hu7\bin\Debug\netcoreapp3.1\Hu7.exe
+C:\Users\darka\source\repos\Hu7\Hu7\bin\Debug\netcoreapp3.1\Hu7.deps.json
+C:\Users\darka\source\repos\Hu7\Hu7\bin\Debug\netcoreapp3.1\Hu7.runtimeconfig.json
+C:\Users\darka\source\repos\Hu7\Hu7\bin\Debug\netcoreapp3.1\Hu7.runtimeconfig.dev.json
+C:\Users\darka\source\repos\Hu7\Hu7\bin\Debug\netcoreapp3.1\Hu7.dll
+C:\Users\darka\source\repos\Hu7\Hu7\bin\Debug\netcoreapp3.1\Hu7.pdb
+C:\Users\darka\source\repos\Hu7\Hu7\obj\Debug\netcoreapp3.1\Hu7.csproj.AssemblyReference.cache
+C:\Users\darka\source\repos\Hu7\Hu7\obj\Debug\netcoreapp3.1\Hu7.FrmGenerarArchivoCsv.resources
+C:\Users\darka\source\repos\Hu7\Hu7\obj\Debug\netcoreapp3.1\Hu7.csproj.GenerateResource.cache
+C:\Users\darka\source\repos\Hu7\Hu7\obj\Debug\netcoreapp3.1\Hu7.AssemblyInfoInputs.cache
+C:\Users\darka\source\repos\Hu7\Hu7\obj\Debug\netcoreapp3.1\Hu7.AssemblyInfo.cs
+C:\Users\darka\source\repos\Hu7\Hu7\obj\Debug\netcoreapp3.1\Hu7.csproj.CoreCompileInputs.cache
+C:\Users\darka\source\repos\Hu7\Hu7\obj\Debug\netcoreapp3.1\Hu7.dll
+C:\Users\darka\source\repos\Hu7\Hu7\obj\Debug\netcoreapp3.1\Hu7.pdb
+C:\Users\darka\source\repos\Hu7\Hu7\obj\Debug\netcoreapp3.1\Hu7.genruntimeconfig.cache

@@ -1,0 +1,7 @@
+C:\Users\darka\source\repos\MCAJ_Tienda\MCAJ_Tienda\bin\Debug\MCAJ_Tienda.exe.config
+C:\Users\darka\source\repos\MCAJ_Tienda\MCAJ_Tienda\bin\Debug\MCAJ_Tienda.exe
+C:\Users\darka\source\repos\MCAJ_Tienda\MCAJ_Tienda\bin\Debug\MCAJ_Tienda.pdb
+C:\Users\darka\source\repos\MCAJ_Tienda\MCAJ_Tienda\obj\Debug\MCAJ_Tienda.csprojResolveAssemblyReference.cache
+C:\Users\darka\source\repos\MCAJ_Tienda\MCAJ_Tienda\obj\Debug\MCAJ_Tienda.csproj.CoreCompileInputs.cache
+C:\Users\darka\source\repos\MCAJ_Tienda\MCAJ_Tienda\obj\Debug\MCAJ_Tienda.exe
+C:\Users\darka\source\repos\MCAJ_Tienda\MCAJ_Tienda\obj\Debug\MCAJ_Tienda.pdb

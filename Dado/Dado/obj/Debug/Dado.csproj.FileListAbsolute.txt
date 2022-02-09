@@ -1,0 +1,6 @@
+c:\users\darka\source\repos\Dado\Dado\bin\Debug\Dado.exe.config
+c:\users\darka\source\repos\Dado\Dado\bin\Debug\Dado.exe
+c:\users\darka\source\repos\Dado\Dado\bin\Debug\Dado.pdb
+c:\users\darka\source\repos\Dado\Dado\obj\Debug\Dado.csproj.CoreCompileInputs.cache
+c:\users\darka\source\repos\Dado\Dado\obj\Debug\Dado.exe
+c:\users\darka\source\repos\Dado\Dado\obj\Debug\Dado.pdb

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "1+jfto6IpfkSpdCf/te5+2ADwNgT7ywmu8QUak2jucfLTR0SNqB7kwM2BKfL2YXB663lC6GauTgJ3hr0xroEng==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\darka\\source\\repos\\dossier\\dossier\\dossier.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\darka\\.nuget\\packages\\exceldatareader\\3.6.0\\exceldatareader.3.6.0.nupkg.sha512",
+    "C:\\Users\\darka\\.nuget\\packages\\exceldatareader.dataset\\3.6.0\\exceldatareader.dataset.3.6.0.nupkg.sha512"
+  ],
+  "logs": []
+}

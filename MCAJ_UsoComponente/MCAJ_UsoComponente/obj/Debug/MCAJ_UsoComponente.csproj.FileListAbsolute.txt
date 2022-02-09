@@ -1,0 +1,13 @@
+c:\users\darka\source\repos\MCAJ_UsoComponente\MCAJ_UsoComponente\bin\Debug\MCAJ_UsoComponente.exe.config
+c:\users\darka\source\repos\MCAJ_UsoComponente\MCAJ_UsoComponente\bin\Debug\MCAJ_UsoComponente.exe
+c:\users\darka\source\repos\MCAJ_UsoComponente\MCAJ_UsoComponente\bin\Debug\MCAJ_UsoComponente.pdb
+c:\users\darka\source\repos\MCAJ_UsoComponente\MCAJ_UsoComponente\bin\Debug\MCAJ_EjemploComponentes.dll
+c:\users\darka\source\repos\MCAJ_UsoComponente\MCAJ_UsoComponente\bin\Debug\MCAJ_EjemploComponentes.pdb
+c:\users\darka\source\repos\MCAJ_UsoComponente\MCAJ_UsoComponente\obj\Debug\MCAJ_UsoComponente.csprojResolveAssemblyReference.cache
+c:\users\darka\source\repos\MCAJ_UsoComponente\MCAJ_UsoComponente\obj\Debug\MCAJ_UsoComponente.FrmPrincipal.resources
+c:\users\darka\source\repos\MCAJ_UsoComponente\MCAJ_UsoComponente\obj\Debug\MCAJ_UsoComponente.Properties.Resources.resources
+c:\users\darka\source\repos\MCAJ_UsoComponente\MCAJ_UsoComponente\obj\Debug\MCAJ_UsoComponente.csproj.GenerateResource.cache
+c:\users\darka\source\repos\MCAJ_UsoComponente\MCAJ_UsoComponente\obj\Debug\MCAJ_UsoComponente.csproj.CoreCompileInputs.cache
+c:\users\darka\source\repos\MCAJ_UsoComponente\MCAJ_UsoComponente\obj\Debug\MCAJ_UsoComponente.csproj.CopyComplete
+c:\users\darka\source\repos\MCAJ_UsoComponente\MCAJ_UsoComponente\obj\Debug\MCAJ_UsoComponente.exe
+c:\users\darka\source\repos\MCAJ_UsoComponente\MCAJ_UsoComponente\obj\Debug\MCAJ_UsoComponente.pdb

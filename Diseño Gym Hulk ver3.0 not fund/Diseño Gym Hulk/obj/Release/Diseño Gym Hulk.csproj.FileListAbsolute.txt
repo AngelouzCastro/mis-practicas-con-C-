@@ -1,0 +1,19 @@
+C:\Users\darka\source\repos\Diseño Gym Hulk ver3.0\Diseño Gym Hulk\bin\Release\Diseño Gym Hulk.exe.config
+C:\Users\darka\source\repos\Diseño Gym Hulk ver3.0\Diseño Gym Hulk\bin\Release\Diseño Gym Hulk.exe
+C:\Users\darka\source\repos\Diseño Gym Hulk ver3.0\Diseño Gym Hulk\bin\Release\Diseño Gym Hulk.pdb
+C:\Users\darka\source\repos\Diseño Gym Hulk ver3.0\Diseño Gym Hulk\obj\Release\Diseño Gym Hulk.csprojResolveAssemblyReference.cache
+C:\Users\darka\source\repos\Diseño Gym Hulk ver3.0\Diseño Gym Hulk\obj\Release\Diseño_Gym_Hulk.FrmAgregarMembresia.resources
+C:\Users\darka\source\repos\Diseño Gym Hulk ver3.0\Diseño Gym Hulk\obj\Release\Diseño_Gym_Hulk.FrmAltaCliente.resources
+C:\Users\darka\source\repos\Diseño Gym Hulk ver3.0\Diseño Gym Hulk\obj\Release\Diseño_Gym_Hulk.FrmControlMembresia.resources
+C:\Users\darka\source\repos\Diseño Gym Hulk ver3.0\Diseño Gym Hulk\obj\Release\Diseño_Gym_Hulk.FrmCliente_Membresia.resources
+C:\Users\darka\source\repos\Diseño Gym Hulk ver3.0\Diseño Gym Hulk\obj\Release\Diseño_Gym_Hulk.FrmCotrolCliente.resources
+C:\Users\darka\source\repos\Diseño Gym Hulk ver3.0\Diseño Gym Hulk\obj\Release\Diseño_Gym_Hulk.FrmEditarCliente.resources
+C:\Users\darka\source\repos\Diseño Gym Hulk ver3.0\Diseño Gym Hulk\obj\Release\Diseño_Gym_Hulk.FrmEditarMembresia.resources
+C:\Users\darka\source\repos\Diseño Gym Hulk ver3.0\Diseño Gym Hulk\obj\Release\Diseño_Gym_Hulk.FrmPrincipal.resources
+C:\Users\darka\source\repos\Diseño Gym Hulk ver3.0\Diseño Gym Hulk\obj\Release\Diseño_Gym_Hulk.FrmReporte.resources
+C:\Users\darka\source\repos\Diseño Gym Hulk ver3.0\Diseño Gym Hulk\obj\Release\Diseño_Gym_Hulk.FRMVentaMembresia.resources
+C:\Users\darka\source\repos\Diseño Gym Hulk ver3.0\Diseño Gym Hulk\obj\Release\Diseño_Gym_Hulk.Properties.Resources.resources
+C:\Users\darka\source\repos\Diseño Gym Hulk ver3.0\Diseño Gym Hulk\obj\Release\Diseño Gym Hulk.csproj.GenerateResource.cache
+C:\Users\darka\source\repos\Diseño Gym Hulk ver3.0\Diseño Gym Hulk\obj\Release\Diseño Gym Hulk.csproj.CoreCompileInputs.cache
+C:\Users\darka\source\repos\Diseño Gym Hulk ver3.0\Diseño Gym Hulk\obj\Release\Diseño Gym Hulk.exe
+C:\Users\darka\source\repos\Diseño Gym Hulk ver3.0\Diseño Gym Hulk\obj\Release\Diseño Gym Hulk.pdb

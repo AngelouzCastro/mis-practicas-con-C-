@@ -1,0 +1,10 @@
+c:\users\darka\source\repos\MCAJ_Graficoyo\MCAJ_Graficoyo\bin\Debug\MCAJ_Graficoyo.exe.config
+c:\users\darka\source\repos\MCAJ_Graficoyo\MCAJ_Graficoyo\bin\Debug\MCAJ_Graficoyo.exe
+c:\users\darka\source\repos\MCAJ_Graficoyo\MCAJ_Graficoyo\bin\Debug\MCAJ_Graficoyo.pdb
+c:\users\darka\source\repos\MCAJ_Graficoyo\MCAJ_Graficoyo\obj\Debug\MCAJ_Graficoyo.csprojResolveAssemblyReference.cache
+c:\users\darka\source\repos\MCAJ_Graficoyo\MCAJ_Graficoyo\obj\Debug\MCAJ_Graficoyo.FrmPrincipal.resources
+c:\users\darka\source\repos\MCAJ_Graficoyo\MCAJ_Graficoyo\obj\Debug\MCAJ_Graficoyo.Properties.Resources.resources
+c:\users\darka\source\repos\MCAJ_Graficoyo\MCAJ_Graficoyo\obj\Debug\MCAJ_Graficoyo.csproj.GenerateResource.cache
+c:\users\darka\source\repos\MCAJ_Graficoyo\MCAJ_Graficoyo\obj\Debug\MCAJ_Graficoyo.csproj.CoreCompileInputs.cache
+c:\users\darka\source\repos\MCAJ_Graficoyo\MCAJ_Graficoyo\obj\Debug\MCAJ_Graficoyo.exe
+c:\users\darka\source\repos\MCAJ_Graficoyo\MCAJ_Graficoyo\obj\Debug\MCAJ_Graficoyo.pdb

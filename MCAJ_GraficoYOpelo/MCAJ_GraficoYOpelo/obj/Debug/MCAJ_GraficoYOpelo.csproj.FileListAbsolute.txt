@@ -1,0 +1,10 @@
+c:\users\darka\source\repos\MCAJ_GraficoYOpelo\MCAJ_GraficoYOpelo\bin\Debug\MCAJ_GraficoYOpelo.exe.config
+c:\users\darka\source\repos\MCAJ_GraficoYOpelo\MCAJ_GraficoYOpelo\bin\Debug\MCAJ_GraficoYOpelo.exe
+c:\users\darka\source\repos\MCAJ_GraficoYOpelo\MCAJ_GraficoYOpelo\bin\Debug\MCAJ_GraficoYOpelo.pdb
+c:\users\darka\source\repos\MCAJ_GraficoYOpelo\MCAJ_GraficoYOpelo\obj\Debug\MCAJ_GraficoYOpelo.csprojResolveAssemblyReference.cache
+c:\users\darka\source\repos\MCAJ_GraficoYOpelo\MCAJ_GraficoYOpelo\obj\Debug\MCAJ_GraficoYOpelo.Form1.resources
+c:\users\darka\source\repos\MCAJ_GraficoYOpelo\MCAJ_GraficoYOpelo\obj\Debug\MCAJ_GraficoYOpelo.Properties.Resources.resources
+c:\users\darka\source\repos\MCAJ_GraficoYOpelo\MCAJ_GraficoYOpelo\obj\Debug\MCAJ_GraficoYOpelo.csproj.GenerateResource.cache
+c:\users\darka\source\repos\MCAJ_GraficoYOpelo\MCAJ_GraficoYOpelo\obj\Debug\MCAJ_GraficoYOpelo.csproj.CoreCompileInputs.cache
+c:\users\darka\source\repos\MCAJ_GraficoYOpelo\MCAJ_GraficoYOpelo\obj\Debug\MCAJ_GraficoYOpelo.exe
+c:\users\darka\source\repos\MCAJ_GraficoYOpelo\MCAJ_GraficoYOpelo\obj\Debug\MCAJ_GraficoYOpelo.pdb

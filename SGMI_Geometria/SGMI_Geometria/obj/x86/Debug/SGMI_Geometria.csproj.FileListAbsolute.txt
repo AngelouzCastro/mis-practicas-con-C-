@@ -1,0 +1,10 @@
+C:\Users\isala\AppData\Local\Temporary Projects\SGMI_Geometria\bin\Debug\SGMI_Geometria.exe
+C:\Users\isala\AppData\Local\Temporary Projects\SGMI_Geometria\bin\Debug\SGMI_Geometria.pdb
+C:\Users\isala\AppData\Local\Temporary Projects\SGMI_Geometria\obj\x86\Debug\SGMI_Geometria.exe
+C:\Users\isala\AppData\Local\Temporary Projects\SGMI_Geometria\obj\x86\Debug\SGMI_Geometria.pdb
+C:\Users\darka\source\repos\SGMI_Geometria\SGMI_Geometria\bin\Debug\SGMI_Geometria.exe
+C:\Users\darka\source\repos\SGMI_Geometria\SGMI_Geometria\bin\Debug\SGMI_Geometria.pdb
+C:\Users\darka\source\repos\SGMI_Geometria\SGMI_Geometria\obj\x86\Debug\SGMI_Geometria.csproj.CoreCompileInputs.cache
+C:\Users\darka\source\repos\SGMI_Geometria\SGMI_Geometria\obj\x86\Debug\SGMI_Geometria.exe
+C:\Users\darka\source\repos\SGMI_Geometria\SGMI_Geometria\obj\x86\Debug\SGMI_Geometria.pdb
+C:\Users\darka\source\repos\SGMI_Geometria\SGMI_Geometria\obj\x86\Debug\SGMI_Geometria.csprojResolveAssemblyReference.cache

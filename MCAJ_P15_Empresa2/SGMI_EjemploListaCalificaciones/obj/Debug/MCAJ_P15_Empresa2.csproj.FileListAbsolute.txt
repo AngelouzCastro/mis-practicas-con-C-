@@ -1,0 +1,14 @@
+C:\Users\darka\Documents\Visual Studio 2017\Projects\SGMI_EjemploListaCalificaciones - copia - copia - copia\SGMI_EjemploListaCalificaciones\bin\Debug\SGMI_EjemploListaCalificaciones.exe.config
+C:\Users\darka\Documents\Visual Studio 2017\Projects\SGMI_EjemploListaCalificaciones - copia - copia - copia\SGMI_EjemploListaCalificaciones\bin\Debug\SGMI_EjemploListaCalificaciones.exe
+C:\Users\darka\Documents\Visual Studio 2017\Projects\SGMI_EjemploListaCalificaciones - copia - copia - copia\SGMI_EjemploListaCalificaciones\bin\Debug\SGMI_EjemploListaCalificaciones.pdb
+C:\Users\darka\Documents\Visual Studio 2017\Projects\SGMI_EjemploListaCalificaciones - copia - copia - copia\SGMI_EjemploListaCalificaciones\obj\Debug\MCAJ_P15_Empresa2.csprojResolveAssemblyReference.cache
+C:\Users\darka\Documents\Visual Studio 2017\Projects\SGMI_EjemploListaCalificaciones - copia - copia - copia\SGMI_EjemploListaCalificaciones\obj\Debug\MCAJ_P15_Empresa2.csproj.CoreCompileInputs.cache
+C:\Users\darka\Documents\Visual Studio 2017\Projects\SGMI_EjemploListaCalificaciones - copia - copia - copia\SGMI_EjemploListaCalificaciones\obj\Debug\SGMI_EjemploListaCalificaciones.exe
+C:\Users\darka\Documents\Visual Studio 2017\Projects\SGMI_EjemploListaCalificaciones - copia - copia - copia\SGMI_EjemploListaCalificaciones\obj\Debug\SGMI_EjemploListaCalificaciones.pdb
+C:\Users\darka\source\repos\MCAJ_P15_Empresa2\SGMI_EjemploListaCalificaciones\bin\Debug\SGMI_EjemploListaCalificaciones.exe.config
+C:\Users\darka\source\repos\MCAJ_P15_Empresa2\SGMI_EjemploListaCalificaciones\bin\Debug\SGMI_EjemploListaCalificaciones.exe
+C:\Users\darka\source\repos\MCAJ_P15_Empresa2\SGMI_EjemploListaCalificaciones\bin\Debug\SGMI_EjemploListaCalificaciones.pdb
+C:\Users\darka\source\repos\MCAJ_P15_Empresa2\SGMI_EjemploListaCalificaciones\obj\Debug\MCAJ_P15_Empresa2.csprojResolveAssemblyReference.cache
+C:\Users\darka\source\repos\MCAJ_P15_Empresa2\SGMI_EjemploListaCalificaciones\obj\Debug\MCAJ_P15_Empresa2.csproj.CoreCompileInputs.cache
+C:\Users\darka\source\repos\MCAJ_P15_Empresa2\SGMI_EjemploListaCalificaciones\obj\Debug\SGMI_EjemploListaCalificaciones.exe
+C:\Users\darka\source\repos\MCAJ_P15_Empresa2\SGMI_EjemploListaCalificaciones\obj\Debug\SGMI_EjemploListaCalificaciones.pdb

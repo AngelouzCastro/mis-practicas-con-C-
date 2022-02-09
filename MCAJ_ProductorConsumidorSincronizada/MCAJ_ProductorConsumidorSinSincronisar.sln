@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2043
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MCAJ_ProductorConsumidorSincronisado", "MCAJ_ProductorConsumidorSinSincronisar\MCAJ_ProductorConsumidorSincronisado.csproj", "{6B127181-E85F-4224-BBA7-12EBD4846339}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6B127181-E85F-4224-BBA7-12EBD4846339}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B127181-E85F-4224-BBA7-12EBD4846339}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B127181-E85F-4224-BBA7-12EBD4846339}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B127181-E85F-4224-BBA7-12EBD4846339}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F3FC45F8-983D-42E7-BEDE-3193584BBA17}
+	EndGlobalSection
+EndGlobal

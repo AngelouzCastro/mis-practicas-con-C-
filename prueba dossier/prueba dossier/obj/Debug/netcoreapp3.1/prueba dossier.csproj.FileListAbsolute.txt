@@ -1,0 +1,22 @@
+C:\Users\darka\source\repos\prueba dossier\prueba dossier\bin\Debug\netcoreapp3.1\prueba dossier.exe
+C:\Users\darka\source\repos\prueba dossier\prueba dossier\bin\Debug\netcoreapp3.1\prueba dossier.deps.json
+C:\Users\darka\source\repos\prueba dossier\prueba dossier\bin\Debug\netcoreapp3.1\prueba dossier.runtimeconfig.json
+C:\Users\darka\source\repos\prueba dossier\prueba dossier\bin\Debug\netcoreapp3.1\prueba dossier.runtimeconfig.dev.json
+C:\Users\darka\source\repos\prueba dossier\prueba dossier\bin\Debug\netcoreapp3.1\prueba dossier.dll
+C:\Users\darka\source\repos\prueba dossier\prueba dossier\bin\Debug\netcoreapp3.1\prueba dossier.pdb
+C:\Users\darka\source\repos\prueba dossier\prueba dossier\obj\Debug\netcoreapp3.1\prueba dossier.csproj.AssemblyReference.cache
+C:\Users\darka\source\repos\prueba dossier\prueba dossier\obj\Debug\netcoreapp3.1\prueba dossier.AssemblyInfoInputs.cache
+C:\Users\darka\source\repos\prueba dossier\prueba dossier\obj\Debug\netcoreapp3.1\prueba dossier.AssemblyInfo.cs
+C:\Users\darka\source\repos\prueba dossier\prueba dossier\obj\Debug\netcoreapp3.1\prueba dossier.csproj.CoreCompileInputs.cache
+C:\Users\darka\source\repos\prueba dossier\prueba dossier\obj\Debug\netcoreapp3.1\prueba dossier.dll
+C:\Users\darka\source\repos\prueba dossier\prueba dossier\obj\Debug\netcoreapp3.1\prueba dossier.pdb
+C:\Users\darka\source\repos\prueba dossier\prueba dossier\obj\Debug\netcoreapp3.1\prueba dossier.genruntimeconfig.cache
+C:\Users\darka\source\repos\prueba dossier\prueba dossier\bin\Debug\netcoreapp3.1\DocumentFormat.OpenXml.dll
+C:\Users\darka\source\repos\prueba dossier\prueba dossier\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\darka\source\repos\prueba dossier\prueba dossier\bin\Debug\netcoreapp3.1\SpreadsheetLight.dll
+C:\Users\darka\source\repos\prueba dossier\prueba dossier\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\darka\source\repos\prueba dossier\prueba dossier\bin\Debug\netcoreapp3.1\System.IO.Packaging.dll
+C:\Users\darka\source\repos\prueba dossier\prueba dossier\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\darka\source\repos\prueba dossier\prueba dossier\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\darka\source\repos\prueba dossier\prueba dossier\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\darka\source\repos\prueba dossier\prueba dossier\obj\Debug\netcoreapp3.1\prueba dossier.csproj.CopyComplete

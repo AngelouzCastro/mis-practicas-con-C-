@@ -1,0 +1,7 @@
+C:\Users\darka\source\repos\MCAJ_VentaDeGanado\MCAJ_VentaDeGanado\bin\Debug\MCAJ_VentaDeGanado.exe.config
+C:\Users\darka\source\repos\MCAJ_VentaDeGanado\MCAJ_VentaDeGanado\bin\Debug\MCAJ_VentaDeGanado.exe
+C:\Users\darka\source\repos\MCAJ_VentaDeGanado\MCAJ_VentaDeGanado\bin\Debug\MCAJ_VentaDeGanado.pdb
+C:\Users\darka\source\repos\MCAJ_VentaDeGanado\MCAJ_VentaDeGanado\obj\Debug\MCAJ_VentaDeGanado.csprojResolveAssemblyReference.cache
+C:\Users\darka\source\repos\MCAJ_VentaDeGanado\MCAJ_VentaDeGanado\obj\Debug\MCAJ_VentaDeGanado.csproj.CoreCompileInputs.cache
+C:\Users\darka\source\repos\MCAJ_VentaDeGanado\MCAJ_VentaDeGanado\obj\Debug\MCAJ_VentaDeGanado.exe
+C:\Users\darka\source\repos\MCAJ_VentaDeGanado\MCAJ_VentaDeGanado\obj\Debug\MCAJ_VentaDeGanado.pdb

@@ -1,0 +1,7 @@
+c:\users\darka\source\repos\MCAJ_Alumno_c\MCAJ_Alumno_c\bin\Debug\MCAJ_Alumno_c.exe.config
+c:\users\darka\source\repos\MCAJ_Alumno_c\MCAJ_Alumno_c\bin\Debug\MCAJ_Alumno_c.exe
+c:\users\darka\source\repos\MCAJ_Alumno_c\MCAJ_Alumno_c\bin\Debug\MCAJ_Alumno_c.pdb
+c:\users\darka\source\repos\MCAJ_Alumno_c\MCAJ_Alumno_c\obj\Debug\MCAJ_Alumno_c.csprojResolveAssemblyReference.cache
+c:\users\darka\source\repos\MCAJ_Alumno_c\MCAJ_Alumno_c\obj\Debug\MCAJ_Alumno_c.csproj.CoreCompileInputs.cache
+c:\users\darka\source\repos\MCAJ_Alumno_c\MCAJ_Alumno_c\obj\Debug\MCAJ_Alumno_c.exe
+c:\users\darka\source\repos\MCAJ_Alumno_c\MCAJ_Alumno_c\obj\Debug\MCAJ_Alumno_c.pdb

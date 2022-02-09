@@ -1,0 +1,15 @@
+c:\users\darka\source\repos\MCAJ_Sufamelico\MCAJ_Sufamelico\bin\Debug\MCAJ_Sufamelico.exe.config
+c:\users\darka\source\repos\MCAJ_Sufamelico\MCAJ_Sufamelico\bin\Debug\MCAJ_Sufamelico.exe
+c:\users\darka\source\repos\MCAJ_Sufamelico\MCAJ_Sufamelico\bin\Debug\MCAJ_Sufamelico.pdb
+c:\users\darka\source\repos\MCAJ_Sufamelico\MCAJ_Sufamelico\bin\Debug\ComponenteSufamelico.dll
+c:\users\darka\source\repos\MCAJ_Sufamelico\MCAJ_Sufamelico\bin\Debug\MCAJ_EjemploComponentes.dll
+c:\users\darka\source\repos\MCAJ_Sufamelico\MCAJ_Sufamelico\bin\Debug\ComponenteSufamelico.pdb
+c:\users\darka\source\repos\MCAJ_Sufamelico\MCAJ_Sufamelico\bin\Debug\MCAJ_EjemploComponentes.pdb
+c:\users\darka\source\repos\MCAJ_Sufamelico\MCAJ_Sufamelico\obj\Debug\MCAJ_Sufamelico.csprojResolveAssemblyReference.cache
+c:\users\darka\source\repos\MCAJ_Sufamelico\MCAJ_Sufamelico\obj\Debug\MCAJ_Sufamelico.Properties.Resources.resources
+c:\users\darka\source\repos\MCAJ_Sufamelico\MCAJ_Sufamelico\obj\Debug\MCAJ_Sufamelico.csproj.GenerateResource.cache
+c:\users\darka\source\repos\MCAJ_Sufamelico\MCAJ_Sufamelico\obj\Debug\MCAJ_Sufamelico.csproj.CoreCompileInputs.cache
+c:\users\darka\source\repos\MCAJ_Sufamelico\MCAJ_Sufamelico\obj\Debug\MCAJ_Sufamelico.csproj.CopyComplete
+c:\users\darka\source\repos\MCAJ_Sufamelico\MCAJ_Sufamelico\obj\Debug\MCAJ_Sufamelico.exe
+c:\users\darka\source\repos\MCAJ_Sufamelico\MCAJ_Sufamelico\obj\Debug\MCAJ_Sufamelico.pdb
+C:\Users\darka\source\repos\MCAJ_Sufamelico\MCAJ_Sufamelico\obj\Debug\MCAJ_Sufamelico.FrmSufamelico.resources

@@ -1,0 +1,10 @@
+C:\Users\darka\source\repos\MCAJ_CumpleIvan\MCAJ_CumpleIvan\bin\Debug\MCAJ_CumpleIvan.exe.config
+C:\Users\darka\source\repos\MCAJ_CumpleIvan\MCAJ_CumpleIvan\bin\Debug\MCAJ_CumpleIvan.exe
+C:\Users\darka\source\repos\MCAJ_CumpleIvan\MCAJ_CumpleIvan\bin\Debug\MCAJ_CumpleIvan.pdb
+C:\Users\darka\source\repos\MCAJ_CumpleIvan\MCAJ_CumpleIvan\obj\Debug\MCAJ_CumpleIvan.csprojResolveAssemblyReference.cache
+C:\Users\darka\source\repos\MCAJ_CumpleIvan\MCAJ_CumpleIvan\obj\Debug\MCAJ_CumpleIvan.Form1.resources
+C:\Users\darka\source\repos\MCAJ_CumpleIvan\MCAJ_CumpleIvan\obj\Debug\MCAJ_CumpleIvan.Properties.Resources.resources
+C:\Users\darka\source\repos\MCAJ_CumpleIvan\MCAJ_CumpleIvan\obj\Debug\MCAJ_CumpleIvan.csproj.GenerateResource.cache
+C:\Users\darka\source\repos\MCAJ_CumpleIvan\MCAJ_CumpleIvan\obj\Debug\MCAJ_CumpleIvan.csproj.CoreCompileInputs.cache
+C:\Users\darka\source\repos\MCAJ_CumpleIvan\MCAJ_CumpleIvan\obj\Debug\MCAJ_CumpleIvan.exe
+C:\Users\darka\source\repos\MCAJ_CumpleIvan\MCAJ_CumpleIvan\obj\Debug\MCAJ_CumpleIvan.pdb

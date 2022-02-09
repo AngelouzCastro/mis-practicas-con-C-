@@ -1,0 +1,7 @@
+c:\users\darka\source\repos\MCAJ_EmpresaHerencia\MCAJ_EmpresaHerencia\bin\Debug\MCAJ_EmpresaHerencia.exe.config
+c:\users\darka\source\repos\MCAJ_EmpresaHerencia\MCAJ_EmpresaHerencia\bin\Debug\MCAJ_EmpresaHerencia.exe
+c:\users\darka\source\repos\MCAJ_EmpresaHerencia\MCAJ_EmpresaHerencia\bin\Debug\MCAJ_EmpresaHerencia.pdb
+c:\users\darka\source\repos\MCAJ_EmpresaHerencia\MCAJ_EmpresaHerencia\obj\Debug\MCAJ_EmpresaHerencia.csprojResolveAssemblyReference.cache
+c:\users\darka\source\repos\MCAJ_EmpresaHerencia\MCAJ_EmpresaHerencia\obj\Debug\MCAJ_EmpresaHerencia.csproj.CoreCompileInputs.cache
+c:\users\darka\source\repos\MCAJ_EmpresaHerencia\MCAJ_EmpresaHerencia\obj\Debug\MCAJ_EmpresaHerencia.exe
+c:\users\darka\source\repos\MCAJ_EmpresaHerencia\MCAJ_EmpresaHerencia\obj\Debug\MCAJ_EmpresaHerencia.pdb

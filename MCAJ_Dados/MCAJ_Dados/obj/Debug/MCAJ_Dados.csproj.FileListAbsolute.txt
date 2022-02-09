@@ -1,0 +1,7 @@
+c:\users\darka\source\repos\MCAJ_Dados\MCAJ_Dados\bin\Debug\MCAJ_Dados.exe.config
+c:\users\darka\source\repos\MCAJ_Dados\MCAJ_Dados\bin\Debug\MCAJ_Dados.exe
+c:\users\darka\source\repos\MCAJ_Dados\MCAJ_Dados\bin\Debug\MCAJ_Dados.pdb
+c:\users\darka\source\repos\MCAJ_Dados\MCAJ_Dados\obj\Debug\MCAJ_Dados.csprojResolveAssemblyReference.cache
+c:\users\darka\source\repos\MCAJ_Dados\MCAJ_Dados\obj\Debug\MCAJ_Dados.csproj.CoreCompileInputs.cache
+c:\users\darka\source\repos\MCAJ_Dados\MCAJ_Dados\obj\Debug\MCAJ_Dados.exe
+c:\users\darka\source\repos\MCAJ_Dados\MCAJ_Dados\obj\Debug\MCAJ_Dados.pdb

@@ -1,0 +1,7 @@
+C:\Users\darka\source\repos\MCAJ_Equipo1\MCAJ_Equipo1\bin\Debug\MCAJ_Equipo1.exe.config
+C:\Users\darka\source\repos\MCAJ_Equipo1\MCAJ_Equipo1\bin\Debug\MCAJ_Equipo1.exe
+C:\Users\darka\source\repos\MCAJ_Equipo1\MCAJ_Equipo1\bin\Debug\MCAJ_Equipo1.pdb
+C:\Users\darka\source\repos\MCAJ_Equipo1\MCAJ_Equipo1\obj\Debug\MCAJ_Equipo1.csprojResolveAssemblyReference.cache
+C:\Users\darka\source\repos\MCAJ_Equipo1\MCAJ_Equipo1\obj\Debug\MCAJ_Equipo1.csproj.CoreCompileInputs.cache
+C:\Users\darka\source\repos\MCAJ_Equipo1\MCAJ_Equipo1\obj\Debug\MCAJ_Equipo1.exe
+C:\Users\darka\source\repos\MCAJ_Equipo1\MCAJ_Equipo1\obj\Debug\MCAJ_Equipo1.pdb

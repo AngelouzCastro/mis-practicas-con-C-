@@ -1,0 +1,8 @@
+c:\users\darka\source\repos\MCAJ_EjemploComponentes\MCAJ_EjemploComponentes\bin\Debug\MCAJ_EjemploComponentes.dll
+c:\users\darka\source\repos\MCAJ_EjemploComponentes\MCAJ_EjemploComponentes\bin\Debug\MCAJ_EjemploComponentes.pdb
+c:\users\darka\source\repos\MCAJ_EjemploComponentes\MCAJ_EjemploComponentes\obj\Debug\MCAJ_EjemploComponentes.CajaDoble.resources
+c:\users\darka\source\repos\MCAJ_EjemploComponentes\MCAJ_EjemploComponentes\obj\Debug\MCAJ_EjemploComponentes.csproj.GenerateResource.cache
+c:\users\darka\source\repos\MCAJ_EjemploComponentes\MCAJ_EjemploComponentes\obj\Debug\MCAJ_EjemploComponentes.csproj.CoreCompileInputs.cache
+c:\users\darka\source\repos\MCAJ_EjemploComponentes\MCAJ_EjemploComponentes\obj\Debug\MCAJ_EjemploComponentes.dll
+c:\users\darka\source\repos\MCAJ_EjemploComponentes\MCAJ_EjemploComponentes\obj\Debug\MCAJ_EjemploComponentes.pdb
+C:\Users\darka\source\repos\MCAJ_EjemploComponentes\MCAJ_EjemploComponentes\obj\Debug\MCAJ_EjemploComponentes.csprojResolveAssemblyReference.cache

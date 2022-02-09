@@ -1,0 +1,7 @@
+c:\users\darka\source\repos\Ejemplo ouija\Ejemplo ouija\bin\Debug\Ejemplo ouija.exe.config
+c:\users\darka\source\repos\Ejemplo ouija\Ejemplo ouija\bin\Debug\Ejemplo ouija.exe
+c:\users\darka\source\repos\Ejemplo ouija\Ejemplo ouija\bin\Debug\Ejemplo ouija.pdb
+c:\users\darka\source\repos\Ejemplo ouija\Ejemplo ouija\obj\Debug\Ejemplo ouija.csprojResolveAssemblyReference.cache
+c:\users\darka\source\repos\Ejemplo ouija\Ejemplo ouija\obj\Debug\Ejemplo ouija.csproj.CoreCompileInputs.cache
+c:\users\darka\source\repos\Ejemplo ouija\Ejemplo ouija\obj\Debug\Ejemplo ouija.exe
+c:\users\darka\source\repos\Ejemplo ouija\Ejemplo ouija\obj\Debug\Ejemplo ouija.pdb

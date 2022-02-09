@@ -1,0 +1,7 @@
+C:\Users\darka\source\repos\MCAJ_P19_Vehiculo\MCAJ_P19_Vehiculo\bin\Debug\MCAJ_P19_Vehiculo.exe.config
+C:\Users\darka\source\repos\MCAJ_P19_Vehiculo\MCAJ_P19_Vehiculo\bin\Debug\MCAJ_P19_Vehiculo.exe
+C:\Users\darka\source\repos\MCAJ_P19_Vehiculo\MCAJ_P19_Vehiculo\bin\Debug\MCAJ_P19_Vehiculo.pdb
+C:\Users\darka\source\repos\MCAJ_P19_Vehiculo\MCAJ_P19_Vehiculo\obj\Debug\MCAJ_P19_Vehiculo.csprojResolveAssemblyReference.cache
+C:\Users\darka\source\repos\MCAJ_P19_Vehiculo\MCAJ_P19_Vehiculo\obj\Debug\MCAJ_P19_Vehiculo.csproj.CoreCompileInputs.cache
+C:\Users\darka\source\repos\MCAJ_P19_Vehiculo\MCAJ_P19_Vehiculo\obj\Debug\MCAJ_P19_Vehiculo.exe
+C:\Users\darka\source\repos\MCAJ_P19_Vehiculo\MCAJ_P19_Vehiculo\obj\Debug\MCAJ_P19_Vehiculo.pdb

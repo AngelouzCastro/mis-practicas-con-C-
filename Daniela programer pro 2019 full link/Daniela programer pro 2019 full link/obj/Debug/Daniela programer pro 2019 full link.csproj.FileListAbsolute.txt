@@ -1,0 +1,10 @@
+c:\users\darka\source\repos\Daniela programer pro 2019 full link\Daniela programer pro 2019 full link\bin\Debug\Daniela programer pro 2019 full link.exe.config
+c:\users\darka\source\repos\Daniela programer pro 2019 full link\Daniela programer pro 2019 full link\bin\Debug\Daniela programer pro 2019 full link.exe
+c:\users\darka\source\repos\Daniela programer pro 2019 full link\Daniela programer pro 2019 full link\bin\Debug\Daniela programer pro 2019 full link.pdb
+c:\users\darka\source\repos\Daniela programer pro 2019 full link\Daniela programer pro 2019 full link\obj\Debug\Daniela programer pro 2019 full link.csprojResolveAssemblyReference.cache
+c:\users\darka\source\repos\Daniela programer pro 2019 full link\Daniela programer pro 2019 full link\obj\Debug\Daniela_programer_pro_2019_full_link.FrmPrincipal.resources
+c:\users\darka\source\repos\Daniela programer pro 2019 full link\Daniela programer pro 2019 full link\obj\Debug\Daniela_programer_pro_2019_full_link.Properties.Resources.resources
+c:\users\darka\source\repos\Daniela programer pro 2019 full link\Daniela programer pro 2019 full link\obj\Debug\Daniela programer pro 2019 full link.csproj.GenerateResource.cache
+c:\users\darka\source\repos\Daniela programer pro 2019 full link\Daniela programer pro 2019 full link\obj\Debug\Daniela programer pro 2019 full link.csproj.CoreCompileInputs.cache
+c:\users\darka\source\repos\Daniela programer pro 2019 full link\Daniela programer pro 2019 full link\obj\Debug\Daniela programer pro 2019 full link.exe
+c:\users\darka\source\repos\Daniela programer pro 2019 full link\Daniela programer pro 2019 full link\obj\Debug\Daniela programer pro 2019 full link.pdb

@@ -1,0 +1,20 @@
+c:\users\isala\documents\visual studio 2012\Projects\SGMI_EjemploListaCalificaciones\SGMI_EjemploListaCalificaciones\bin\Debug\SGMI_EjemploListaCalificaciones.exe.config
+C:\Users\isala\documents\visual studio 2012\Projects\SGMI_EjemploListaCalificaciones\SGMI_EjemploListaCalificaciones\bin\Debug\SGMI_EjemploListaCalificaciones.exe
+C:\Users\isala\documents\visual studio 2012\Projects\SGMI_EjemploListaCalificaciones\SGMI_EjemploListaCalificaciones\bin\Debug\SGMI_EjemploListaCalificaciones.pdb
+C:\Users\isala\documents\visual studio 2012\Projects\SGMI_EjemploListaCalificaciones\SGMI_EjemploListaCalificaciones\obj\Debug\SGMI_EjemploListaCalificaciones.csprojResolveAssemblyReference.cache
+C:\Users\isala\documents\visual studio 2012\Projects\SGMI_EjemploListaCalificaciones\SGMI_EjemploListaCalificaciones\obj\Debug\SGMI_EjemploListaCalificaciones.exe
+C:\Users\isala\documents\visual studio 2012\Projects\SGMI_EjemploListaCalificaciones\SGMI_EjemploListaCalificaciones\obj\Debug\SGMI_EjemploListaCalificaciones.pdb
+C:\Users\darka\Documents\Visual Studio 2017\Projects\SGMI_EjemploListaCalificaciones\SGMI_EjemploListaCalificaciones\bin\Debug\SGMI_EjemploListaCalificaciones.exe.config
+C:\Users\darka\Documents\Visual Studio 2017\Projects\SGMI_EjemploListaCalificaciones\SGMI_EjemploListaCalificaciones\bin\Debug\SGMI_EjemploListaCalificaciones.exe
+C:\Users\darka\Documents\Visual Studio 2017\Projects\SGMI_EjemploListaCalificaciones\SGMI_EjemploListaCalificaciones\bin\Debug\SGMI_EjemploListaCalificaciones.pdb
+C:\Users\darka\Documents\Visual Studio 2017\Projects\SGMI_EjemploListaCalificaciones\SGMI_EjemploListaCalificaciones\obj\Debug\SGMI_EjemploListaCalificaciones.csprojResolveAssemblyReference.cache
+C:\Users\darka\Documents\Visual Studio 2017\Projects\SGMI_EjemploListaCalificaciones\SGMI_EjemploListaCalificaciones\obj\Debug\SGMI_EjemploListaCalificaciones.csproj.CoreCompileInputs.cache
+C:\Users\darka\Documents\Visual Studio 2017\Projects\SGMI_EjemploListaCalificaciones\SGMI_EjemploListaCalificaciones\obj\Debug\SGMI_EjemploListaCalificaciones.exe
+C:\Users\darka\Documents\Visual Studio 2017\Projects\SGMI_EjemploListaCalificaciones\SGMI_EjemploListaCalificaciones\obj\Debug\SGMI_EjemploListaCalificaciones.pdb
+C:\Users\darka\Documents\Visual Studio 2017\Projects\SGMI_EjemploListaCalificaciones - copia\SGMI_EjemploListaCalificaciones\bin\Debug\SGMI_EjemploListaCalificaciones.exe.config
+C:\Users\darka\Documents\Visual Studio 2017\Projects\SGMI_EjemploListaCalificaciones - copia\SGMI_EjemploListaCalificaciones\bin\Debug\SGMI_EjemploListaCalificaciones.exe
+C:\Users\darka\Documents\Visual Studio 2017\Projects\SGMI_EjemploListaCalificaciones - copia\SGMI_EjemploListaCalificaciones\bin\Debug\SGMI_EjemploListaCalificaciones.pdb
+C:\Users\darka\Documents\Visual Studio 2017\Projects\SGMI_EjemploListaCalificaciones - copia\SGMI_EjemploListaCalificaciones\obj\Debug\SGMI_EjemploListaCalificaciones.csprojResolveAssemblyReference.cache
+C:\Users\darka\Documents\Visual Studio 2017\Projects\SGMI_EjemploListaCalificaciones - copia\SGMI_EjemploListaCalificaciones\obj\Debug\SGMI_EjemploListaCalificaciones.csproj.CoreCompileInputs.cache
+C:\Users\darka\Documents\Visual Studio 2017\Projects\SGMI_EjemploListaCalificaciones - copia\SGMI_EjemploListaCalificaciones\obj\Debug\SGMI_EjemploListaCalificaciones.exe
+C:\Users\darka\Documents\Visual Studio 2017\Projects\SGMI_EjemploListaCalificaciones - copia\SGMI_EjemploListaCalificaciones\obj\Debug\SGMI_EjemploListaCalificaciones.pdb

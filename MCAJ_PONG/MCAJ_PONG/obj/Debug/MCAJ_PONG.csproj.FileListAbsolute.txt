@@ -1,0 +1,10 @@
+C:\Users\darka\source\repos\MCAJ_PONG\MCAJ_PONG\bin\Debug\MCAJ_PONG.exe.config
+C:\Users\darka\source\repos\MCAJ_PONG\MCAJ_PONG\bin\Debug\MCAJ_PONG.exe
+C:\Users\darka\source\repos\MCAJ_PONG\MCAJ_PONG\bin\Debug\MCAJ_PONG.pdb
+C:\Users\darka\source\repos\MCAJ_PONG\MCAJ_PONG\obj\Debug\MCAJ_PONG.csprojResolveAssemblyReference.cache
+C:\Users\darka\source\repos\MCAJ_PONG\MCAJ_PONG\obj\Debug\MCAJ_PONG.Form1.resources
+C:\Users\darka\source\repos\MCAJ_PONG\MCAJ_PONG\obj\Debug\MCAJ_PONG.Properties.Resources.resources
+C:\Users\darka\source\repos\MCAJ_PONG\MCAJ_PONG\obj\Debug\MCAJ_PONG.csproj.GenerateResource.cache
+C:\Users\darka\source\repos\MCAJ_PONG\MCAJ_PONG\obj\Debug\MCAJ_PONG.csproj.CoreCompileInputs.cache
+C:\Users\darka\source\repos\MCAJ_PONG\MCAJ_PONG\obj\Debug\MCAJ_PONG.exe
+C:\Users\darka\source\repos\MCAJ_PONG\MCAJ_PONG\obj\Debug\MCAJ_PONG.pdb

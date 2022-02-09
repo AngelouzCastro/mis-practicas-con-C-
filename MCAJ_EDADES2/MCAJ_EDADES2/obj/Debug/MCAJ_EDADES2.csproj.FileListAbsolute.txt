@@ -1,0 +1,7 @@
+c:\users\darka\source\repos\MCAJ_EDADES2\MCAJ_EDADES2\bin\Debug\MCAJ_EDADES2.exe.config
+c:\users\darka\source\repos\MCAJ_EDADES2\MCAJ_EDADES2\bin\Debug\MCAJ_EDADES2.exe
+c:\users\darka\source\repos\MCAJ_EDADES2\MCAJ_EDADES2\bin\Debug\MCAJ_EDADES2.pdb
+c:\users\darka\source\repos\MCAJ_EDADES2\MCAJ_EDADES2\obj\Debug\MCAJ_EDADES2.csprojResolveAssemblyReference.cache
+c:\users\darka\source\repos\MCAJ_EDADES2\MCAJ_EDADES2\obj\Debug\MCAJ_EDADES2.csproj.CoreCompileInputs.cache
+c:\users\darka\source\repos\MCAJ_EDADES2\MCAJ_EDADES2\obj\Debug\MCAJ_EDADES2.exe
+c:\users\darka\source\repos\MCAJ_EDADES2\MCAJ_EDADES2\obj\Debug\MCAJ_EDADES2.pdb

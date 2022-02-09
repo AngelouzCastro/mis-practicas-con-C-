@@ -1,0 +1,9 @@
+C:\Users\admin\AppData\Local\Temporary Projects\MCAJ_Calculadora\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\admin\AppData\Local\Temporary Projects\MCAJ_Calculadora\bin\Debug\MCAJ_Calculadora.exe
+C:\Users\admin\AppData\Local\Temporary Projects\MCAJ_Calculadora\bin\Debug\MCAJ_Calculadora.pdb
+C:\Users\admin\AppData\Local\Temporary Projects\MCAJ_Calculadora\obj\x86\Debug\MCAJ_Calculadora.exe
+C:\Users\admin\AppData\Local\Temporary Projects\MCAJ_Calculadora\obj\x86\Debug\MCAJ_Calculadora.pdb
+F:\Archivos\MCAJ_Calculadora\MCAJ_Calculadora\obj\x86\Debug\MCAJ_Calculadora.exe
+F:\Archivos\MCAJ_Calculadora\MCAJ_Calculadora\obj\x86\Debug\MCAJ_Calculadora.pdb
+F:\Archivos\MCAJ_Calculadora\MCAJ_Calculadora\bin\Debug\MCAJ_Calculadora.exe
+F:\Archivos\MCAJ_Calculadora\MCAJ_Calculadora\bin\Debug\MCAJ_Calculadora.pdb

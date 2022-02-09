@@ -1,0 +1,10 @@
+C:\Users\darka\source\repos\MCAJ_Aeropuerto\MCAJ_Aeropuerto\obj\Debug\MCAJ_Aeropuerto.csprojResolveAssemblyReference.cache
+C:\Users\darka\source\repos\MCAJ_Aeropuerto\MCAJ_Aeropuerto\obj\Debug\MCAJ_Aeropuerto.Form1.resources
+C:\Users\darka\source\repos\MCAJ_Aeropuerto\MCAJ_Aeropuerto\obj\Debug\MCAJ_Aeropuerto.Properties.Resources.resources
+C:\Users\darka\source\repos\MCAJ_Aeropuerto\MCAJ_Aeropuerto\obj\Debug\MCAJ_Aeropuerto.csproj.GenerateResource.cache
+C:\Users\darka\source\repos\MCAJ_Aeropuerto\MCAJ_Aeropuerto\obj\Debug\MCAJ_Aeropuerto.csproj.CoreCompileInputs.cache
+C:\Users\darka\source\repos\MCAJ_Aeropuerto\MCAJ_Aeropuerto\bin\Debug\MCAJ_Aeropuerto.exe.config
+C:\Users\darka\source\repos\MCAJ_Aeropuerto\MCAJ_Aeropuerto\bin\Debug\MCAJ_Aeropuerto.exe
+C:\Users\darka\source\repos\MCAJ_Aeropuerto\MCAJ_Aeropuerto\bin\Debug\MCAJ_Aeropuerto.pdb
+C:\Users\darka\source\repos\MCAJ_Aeropuerto\MCAJ_Aeropuerto\obj\Debug\MCAJ_Aeropuerto.exe
+C:\Users\darka\source\repos\MCAJ_Aeropuerto\MCAJ_Aeropuerto\obj\Debug\MCAJ_Aeropuerto.pdb

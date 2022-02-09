@@ -1,0 +1,7 @@
+c:\users\darka\source\repos\MCAJ_Restaurante\MCAJ_Restaurante\bin\Debug\MCAJ_Restaurante.exe.config
+c:\users\darka\source\repos\MCAJ_Restaurante\MCAJ_Restaurante\bin\Debug\MCAJ_Restaurante.exe
+c:\users\darka\source\repos\MCAJ_Restaurante\MCAJ_Restaurante\bin\Debug\MCAJ_Restaurante.pdb
+c:\users\darka\source\repos\MCAJ_Restaurante\MCAJ_Restaurante\obj\Debug\MCAJ_Restaurante.csprojResolveAssemblyReference.cache
+c:\users\darka\source\repos\MCAJ_Restaurante\MCAJ_Restaurante\obj\Debug\MCAJ_Restaurante.csproj.CoreCompileInputs.cache
+c:\users\darka\source\repos\MCAJ_Restaurante\MCAJ_Restaurante\obj\Debug\MCAJ_Restaurante.exe
+c:\users\darka\source\repos\MCAJ_Restaurante\MCAJ_Restaurante\obj\Debug\MCAJ_Restaurante.pdb

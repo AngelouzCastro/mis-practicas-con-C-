@@ -1,0 +1,7 @@
+C:\Users\darka\source\repos\MCAJ_P13_Borrachera\MCAJ_P13_Borrachera\bin\Debug\MCAJ_P13_Borrachera.exe.config
+C:\Users\darka\source\repos\MCAJ_P13_Borrachera\MCAJ_P13_Borrachera\bin\Debug\MCAJ_P13_Borrachera.exe
+C:\Users\darka\source\repos\MCAJ_P13_Borrachera\MCAJ_P13_Borrachera\bin\Debug\MCAJ_P13_Borrachera.pdb
+C:\Users\darka\source\repos\MCAJ_P13_Borrachera\MCAJ_P13_Borrachera\obj\Debug\MCAJ_P13_Borrachera.csprojResolveAssemblyReference.cache
+C:\Users\darka\source\repos\MCAJ_P13_Borrachera\MCAJ_P13_Borrachera\obj\Debug\MCAJ_P13_Borrachera.csproj.CoreCompileInputs.cache
+C:\Users\darka\source\repos\MCAJ_P13_Borrachera\MCAJ_P13_Borrachera\obj\Debug\MCAJ_P13_Borrachera.exe
+C:\Users\darka\source\repos\MCAJ_P13_Borrachera\MCAJ_P13_Borrachera\obj\Debug\MCAJ_P13_Borrachera.pdb

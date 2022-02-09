@@ -1,0 +1,7 @@
+C:\Users\darka\source\repos\MCAJ_P16_Bascula\MCAJ_P16_Bascula\bin\Debug\MCAJ_P16_Bascula.exe.config
+C:\Users\darka\source\repos\MCAJ_P16_Bascula\MCAJ_P16_Bascula\bin\Debug\MCAJ_P16_Bascula.exe
+C:\Users\darka\source\repos\MCAJ_P16_Bascula\MCAJ_P16_Bascula\bin\Debug\MCAJ_P16_Bascula.pdb
+C:\Users\darka\source\repos\MCAJ_P16_Bascula\MCAJ_P16_Bascula\obj\Debug\MCAJ_P16_Bascula.csprojResolveAssemblyReference.cache
+C:\Users\darka\source\repos\MCAJ_P16_Bascula\MCAJ_P16_Bascula\obj\Debug\MCAJ_P16_Bascula.csproj.CoreCompileInputs.cache
+C:\Users\darka\source\repos\MCAJ_P16_Bascula\MCAJ_P16_Bascula\obj\Debug\MCAJ_P16_Bascula.exe
+C:\Users\darka\source\repos\MCAJ_P16_Bascula\MCAJ_P16_Bascula\obj\Debug\MCAJ_P16_Bascula.pdb

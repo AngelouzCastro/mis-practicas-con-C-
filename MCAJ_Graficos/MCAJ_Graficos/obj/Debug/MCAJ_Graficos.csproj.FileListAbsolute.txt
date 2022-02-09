@@ -1,0 +1,10 @@
+C:\Users\darka\source\repos\MCAJ_Graficos\MCAJ_Graficos\bin\Debug\MCAJ_Graficos.exe.config
+C:\Users\darka\source\repos\MCAJ_Graficos\MCAJ_Graficos\bin\Debug\MCAJ_Graficos.exe
+C:\Users\darka\source\repos\MCAJ_Graficos\MCAJ_Graficos\bin\Debug\MCAJ_Graficos.pdb
+C:\Users\darka\source\repos\MCAJ_Graficos\MCAJ_Graficos\obj\Debug\MCAJ_Graficos.csprojResolveAssemblyReference.cache
+C:\Users\darka\source\repos\MCAJ_Graficos\MCAJ_Graficos\obj\Debug\MCAJ_Graficos.FrmPrincipal.resources
+C:\Users\darka\source\repos\MCAJ_Graficos\MCAJ_Graficos\obj\Debug\MCAJ_Graficos.Properties.Resources.resources
+C:\Users\darka\source\repos\MCAJ_Graficos\MCAJ_Graficos\obj\Debug\MCAJ_Graficos.csproj.GenerateResource.cache
+C:\Users\darka\source\repos\MCAJ_Graficos\MCAJ_Graficos\obj\Debug\MCAJ_Graficos.csproj.CoreCompileInputs.cache
+C:\Users\darka\source\repos\MCAJ_Graficos\MCAJ_Graficos\obj\Debug\MCAJ_Graficos.exe
+C:\Users\darka\source\repos\MCAJ_Graficos\MCAJ_Graficos\obj\Debug\MCAJ_Graficos.pdb

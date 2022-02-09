@@ -1,0 +1,7 @@
+C:\Users\darka\source\repos\MCAJ_ClaseGenerica\MCAJ_ClaseGenerica\bin\Debug\MCAJ_ClaseGenerica.exe.config
+C:\Users\darka\source\repos\MCAJ_ClaseGenerica\MCAJ_ClaseGenerica\bin\Debug\MCAJ_ClaseGenerica.exe
+C:\Users\darka\source\repos\MCAJ_ClaseGenerica\MCAJ_ClaseGenerica\bin\Debug\MCAJ_ClaseGenerica.pdb
+C:\Users\darka\source\repos\MCAJ_ClaseGenerica\MCAJ_ClaseGenerica\obj\Debug\MCAJ_ClaseGenerica.csprojResolveAssemblyReference.cache
+C:\Users\darka\source\repos\MCAJ_ClaseGenerica\MCAJ_ClaseGenerica\obj\Debug\MCAJ_ClaseGenerica.csproj.CoreCompileInputs.cache
+C:\Users\darka\source\repos\MCAJ_ClaseGenerica\MCAJ_ClaseGenerica\obj\Debug\MCAJ_ClaseGenerica.exe
+C:\Users\darka\source\repos\MCAJ_ClaseGenerica\MCAJ_ClaseGenerica\obj\Debug\MCAJ_ClaseGenerica.pdb

@@ -1,0 +1,7 @@
+C:\Users\darka\source\repos\MCAJ_P18_Empresa\MCAJ_P18_Empresa\bin\Debug\MCAJ_P18_Empresa.exe.config
+C:\Users\darka\source\repos\MCAJ_P18_Empresa\MCAJ_P18_Empresa\bin\Debug\MCAJ_P18_Empresa.exe
+C:\Users\darka\source\repos\MCAJ_P18_Empresa\MCAJ_P18_Empresa\bin\Debug\MCAJ_P18_Empresa.pdb
+C:\Users\darka\source\repos\MCAJ_P18_Empresa\MCAJ_P18_Empresa\obj\Debug\MCAJ_P18_Empresa.csprojResolveAssemblyReference.cache
+C:\Users\darka\source\repos\MCAJ_P18_Empresa\MCAJ_P18_Empresa\obj\Debug\MCAJ_P18_Empresa.csproj.CoreCompileInputs.cache
+C:\Users\darka\source\repos\MCAJ_P18_Empresa\MCAJ_P18_Empresa\obj\Debug\MCAJ_P18_Empresa.exe
+C:\Users\darka\source\repos\MCAJ_P18_Empresa\MCAJ_P18_Empresa\obj\Debug\MCAJ_P18_Empresa.pdb

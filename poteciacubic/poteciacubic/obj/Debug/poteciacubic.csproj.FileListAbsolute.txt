@@ -1,0 +1,7 @@
+c:\users\darka\source\repos\poteciacubic\poteciacubic\bin\Debug\poteciacubic.exe.config
+c:\users\darka\source\repos\poteciacubic\poteciacubic\bin\Debug\poteciacubic.exe
+c:\users\darka\source\repos\poteciacubic\poteciacubic\bin\Debug\poteciacubic.pdb
+c:\users\darka\source\repos\poteciacubic\poteciacubic\obj\Debug\poteciacubic.csprojResolveAssemblyReference.cache
+c:\users\darka\source\repos\poteciacubic\poteciacubic\obj\Debug\poteciacubic.csproj.CoreCompileInputs.cache
+c:\users\darka\source\repos\poteciacubic\poteciacubic\obj\Debug\poteciacubic.exe
+c:\users\darka\source\repos\poteciacubic\poteciacubic\obj\Debug\poteciacubic.pdb

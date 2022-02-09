@@ -1,0 +1,7 @@
+c:\users\darka\source\repos\MCAJ_Descuento\MCAJ_Descuento\bin\Debug\MCAJ_Descuento.exe.config
+c:\users\darka\source\repos\MCAJ_Descuento\MCAJ_Descuento\bin\Debug\MCAJ_Descuento.exe
+c:\users\darka\source\repos\MCAJ_Descuento\MCAJ_Descuento\bin\Debug\MCAJ_Descuento.pdb
+c:\users\darka\source\repos\MCAJ_Descuento\MCAJ_Descuento\obj\Debug\MCAJ_Descuento.csprojResolveAssemblyReference.cache
+c:\users\darka\source\repos\MCAJ_Descuento\MCAJ_Descuento\obj\Debug\MCAJ_Descuento.csproj.CoreCompileInputs.cache
+c:\users\darka\source\repos\MCAJ_Descuento\MCAJ_Descuento\obj\Debug\MCAJ_Descuento.exe
+c:\users\darka\source\repos\MCAJ_Descuento\MCAJ_Descuento\obj\Debug\MCAJ_Descuento.pdb

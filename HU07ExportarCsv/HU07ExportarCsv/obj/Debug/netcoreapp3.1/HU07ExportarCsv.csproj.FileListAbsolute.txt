@@ -1,0 +1,15 @@
+C:\Users\darka\source\repos\HU07ExportarCsv\HU07ExportarCsv\bin\Debug\netcoreapp3.1\HU07ExportarCsv.exe
+C:\Users\darka\source\repos\HU07ExportarCsv\HU07ExportarCsv\bin\Debug\netcoreapp3.1\HU07ExportarCsv.deps.json
+C:\Users\darka\source\repos\HU07ExportarCsv\HU07ExportarCsv\bin\Debug\netcoreapp3.1\HU07ExportarCsv.runtimeconfig.json
+C:\Users\darka\source\repos\HU07ExportarCsv\HU07ExportarCsv\bin\Debug\netcoreapp3.1\HU07ExportarCsv.runtimeconfig.dev.json
+C:\Users\darka\source\repos\HU07ExportarCsv\HU07ExportarCsv\bin\Debug\netcoreapp3.1\HU07ExportarCsv.dll
+C:\Users\darka\source\repos\HU07ExportarCsv\HU07ExportarCsv\bin\Debug\netcoreapp3.1\HU07ExportarCsv.pdb
+C:\Users\darka\source\repos\HU07ExportarCsv\HU07ExportarCsv\obj\Debug\netcoreapp3.1\HU07ExportarCsv.csproj.AssemblyReference.cache
+C:\Users\darka\source\repos\HU07ExportarCsv\HU07ExportarCsv\obj\Debug\netcoreapp3.1\HU07ExportarCsv.FrmArchivoCsv.resources
+C:\Users\darka\source\repos\HU07ExportarCsv\HU07ExportarCsv\obj\Debug\netcoreapp3.1\HU07ExportarCsv.csproj.GenerateResource.cache
+C:\Users\darka\source\repos\HU07ExportarCsv\HU07ExportarCsv\obj\Debug\netcoreapp3.1\HU07ExportarCsv.AssemblyInfoInputs.cache
+C:\Users\darka\source\repos\HU07ExportarCsv\HU07ExportarCsv\obj\Debug\netcoreapp3.1\HU07ExportarCsv.AssemblyInfo.cs
+C:\Users\darka\source\repos\HU07ExportarCsv\HU07ExportarCsv\obj\Debug\netcoreapp3.1\HU07ExportarCsv.csproj.CoreCompileInputs.cache
+C:\Users\darka\source\repos\HU07ExportarCsv\HU07ExportarCsv\obj\Debug\netcoreapp3.1\HU07ExportarCsv.dll
+C:\Users\darka\source\repos\HU07ExportarCsv\HU07ExportarCsv\obj\Debug\netcoreapp3.1\HU07ExportarCsv.pdb
+C:\Users\darka\source\repos\HU07ExportarCsv\HU07ExportarCsv\obj\Debug\netcoreapp3.1\HU07ExportarCsv.genruntimeconfig.cache

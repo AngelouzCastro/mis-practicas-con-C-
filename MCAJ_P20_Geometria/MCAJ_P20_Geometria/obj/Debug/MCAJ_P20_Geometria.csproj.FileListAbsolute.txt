@@ -1,0 +1,7 @@
+c:\users\darka\source\repos\MCAJ_P20_Geometria\MCAJ_P20_Geometria\bin\Debug\MCAJ_P20_Geometria.exe.config
+c:\users\darka\source\repos\MCAJ_P20_Geometria\MCAJ_P20_Geometria\bin\Debug\MCAJ_P20_Geometria.exe
+c:\users\darka\source\repos\MCAJ_P20_Geometria\MCAJ_P20_Geometria\bin\Debug\MCAJ_P20_Geometria.pdb
+c:\users\darka\source\repos\MCAJ_P20_Geometria\MCAJ_P20_Geometria\obj\Debug\MCAJ_P20_Geometria.csprojResolveAssemblyReference.cache
+c:\users\darka\source\repos\MCAJ_P20_Geometria\MCAJ_P20_Geometria\obj\Debug\MCAJ_P20_Geometria.csproj.CoreCompileInputs.cache
+c:\users\darka\source\repos\MCAJ_P20_Geometria\MCAJ_P20_Geometria\obj\Debug\MCAJ_P20_Geometria.exe
+c:\users\darka\source\repos\MCAJ_P20_Geometria\MCAJ_P20_Geometria\obj\Debug\MCAJ_P20_Geometria.pdb

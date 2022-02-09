@@ -1,0 +1,7 @@
+C:\Users\darka\source\repos\MCAJ_ProductorConsumidor - copia\MCAJ_ProductorConsumidorSinSincronisar\bin\Debug\MCAJ_ProductorConsumidorSinSincronisar.exe.config
+C:\Users\darka\source\repos\MCAJ_ProductorConsumidor - copia\MCAJ_ProductorConsumidorSinSincronisar\bin\Debug\MCAJ_ProductorConsumidorSinSincronisar.exe
+C:\Users\darka\source\repos\MCAJ_ProductorConsumidor - copia\MCAJ_ProductorConsumidorSinSincronisar\bin\Debug\MCAJ_ProductorConsumidorSinSincronisar.pdb
+C:\Users\darka\source\repos\MCAJ_ProductorConsumidor - copia\MCAJ_ProductorConsumidorSinSincronisar\obj\Debug\MCAJ_ProductorConsumidorSincronisado.csprojResolveAssemblyReference.cache
+C:\Users\darka\source\repos\MCAJ_ProductorConsumidor - copia\MCAJ_ProductorConsumidorSinSincronisar\obj\Debug\MCAJ_ProductorConsumidorSincronisado.csproj.CoreCompileInputs.cache
+C:\Users\darka\source\repos\MCAJ_ProductorConsumidor - copia\MCAJ_ProductorConsumidorSinSincronisar\obj\Debug\MCAJ_ProductorConsumidorSinSincronisar.exe
+C:\Users\darka\source\repos\MCAJ_ProductorConsumidor - copia\MCAJ_ProductorConsumidorSinSincronisar\obj\Debug\MCAJ_ProductorConsumidorSinSincronisar.pdb
